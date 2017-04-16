@@ -22,7 +22,6 @@ public:
 
     QString getFileSize();
 
-
 };
 
 #endif // TRACK_H
